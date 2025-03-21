@@ -14,7 +14,8 @@ AIRI is designed as an autonomous and personal co-pilot, offering voice interact
 - **R**eactive  
 - **I**nterface  
 
-Her persona is a calm, knowledgeable, and responsive co-driver with a JDM professional personality, combining influences from TARS (from Interstellar) and a calm, competent Japanese woman.  
+AIRI’s personality is a blend of **professional** efficiency and **japanese** charm, with a calm, competent demeanor mixed with a hint of **TARS-like** wit. She is always ready to assist, bringing both helpfulness and a bit of friendly banter when needed. AIRI is designed to:
+
 AIRI is designed to:
 
 - Provide vehicle insights and diagnostics in real-time.
